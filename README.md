@@ -1,0 +1,1 @@
+# EncuestaCovid_2Parcial
